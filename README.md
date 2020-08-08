@@ -1,8 +1,6 @@
 # Spring Cloud Config - Server and Client demo application
 
-	Spring Cloud Config provide both server-side and client-side support to externalized configuration in distributed systems.
-	
-	A Sample application to show how we can use config-server as well config-client(s).
+Spring Cloud Config provide both server-side and client-side support to externalized configuration in distributed systems. A Sample application to show how we can use config-server as well config-client(s).
 	 
 ## Steps to Setup
 1. Clone the application
