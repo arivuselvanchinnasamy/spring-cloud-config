@@ -1,0 +1,7 @@
+spring:
+  jpa:
+    database: MYSQL
+  data:
+    jpa:
+      repositories:
+        enabled: true
